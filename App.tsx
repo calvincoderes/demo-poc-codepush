@@ -78,6 +78,7 @@ function App(): React.JSX.Element {
           }}>
           <Section title="Hello World - POC">
             <Text>Hello hello test</Text>
+            <Text>Test env: ${process.env.REACT_APP_SAMPLE}</Text>
           </Section>
         </View>
       </ScrollView>
