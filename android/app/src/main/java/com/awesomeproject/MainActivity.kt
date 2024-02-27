@@ -1,4 +1,4 @@
-package com.awesomeproject
+package com.awesomeprojectAssoc1
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
