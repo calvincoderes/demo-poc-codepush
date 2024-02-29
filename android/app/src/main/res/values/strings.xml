@@ -2,5 +2,5 @@
     <string name="app_name">AwesomeProject</string>
     <string name="appCenterCrashes_whenToSendCrashes" moduleConfig="true" translatable="false">DO_NOT_ASK_JAVASCRIPT</string>
 <string name="appCenterAnalytics_whenToEnableAnalytics" moduleConfig="true" translatable="false">ALWAYS_SEND</string>
-<string name="CodePushDeploymentKey" moduleConfig="true">v5A7LFz6j_aAyUTzkm7UjA1kXOrJ7nWcsgi7E</string>
+<string name="CodePushDeploymentKey" moduleConfig="true">nsEvlzf5ppaVWQdAAXVxB0JqIdJ3PjVblACaF</string>
 </resources>
